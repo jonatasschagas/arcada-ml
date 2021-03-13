@@ -1,0 +1,4 @@
+- step:
+    name: ML Image classification
+    image: tensorflow/tensorflow:1.5.0-devel-gpu
+    command: python image_classification.py
